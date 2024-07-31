@@ -13,3 +13,17 @@ Repozitář s materiály a informacemi k předmětu Programování
 
 ## Výukové materiály
 - [Dokumentace k JavaScriptu](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Učivo
+1. Základy JavaScriptu
+    - prostředí VS Code, script, Node.js, propojení s HTMl
+    - proměnné, konstanty, základní operace
+2. Algoritmizace
+    - algoritmy
+    - podmínky a cykly
+    - složitost algoritmů
+3. Objektově orientované programování 
+    - pojem objekt a třída
+    - metody
+4. Strukturované programování
+    - funkce
