@@ -16,7 +16,7 @@ Repozitář s materiály a informacemi k předmětu Programování
 
 ## Učivo
 1. Základy JavaScriptu
-    - prostředí VS Code, script, Node.js, propojení s HTMl
+    - prostředí VS Code, script, Node.js, propojení s HTML
     - proměnné, konstanty, základní operace
 2. Algoritmizace
     - algoritmy
