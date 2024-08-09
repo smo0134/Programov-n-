@@ -13,6 +13,7 @@ Repozitář s materiály a informacemi k předmětu Programování
 
 ## Výukové materiály
 - [Dokumentace k JavaScriptu](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Tagy k HTML](https://www.jakpsatweb.cz/html/)
 
 ## Učivo
 1. Základy JavaScriptu
