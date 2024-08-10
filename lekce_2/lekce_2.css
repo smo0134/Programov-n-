@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(121, 0, 208);
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(149, 0, 255);
+    font-size: 30px;
+}
+
+p {
+    color: rgb(179, 0, 255);
+    font-size: 15px;
+}
+
+ul {
+    color: rgb(179, 0, 255);
+    font-size: 20px;
+}

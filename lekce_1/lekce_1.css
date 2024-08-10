@@ -17,18 +17,3 @@ ul {
     color: rgb(0, 179, 255);
     font-size: 20px;
 }
-
-a {
-    text-decoration: none;
-    /* nebude to podrtrzene*/
-    font-size: 25px;
-    border: 2px solid black;
-    /* ohraniceni */
-    padding: 10px 15px;
-    /* odsazeni */
-    border-radius: 15px;
-    /* zaobleni */
-    color: white;
-    background-color: rgb(17, 45, 230);
-    /* barva pozadi */
-}

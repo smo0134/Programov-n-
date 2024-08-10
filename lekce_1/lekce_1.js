@@ -56,3 +56,15 @@ console.log(celeJmeno1)
 
 let info = `Jmenuji se ${celeJmeno}, je mi ${vek} let a bydlím ve městě ${mesto}.` //spojení řetězců pomocí šablony
 console.log(info)
+
+//boolean
+let pravda = true
+let nepravda = false
+console.log(pravda)
+console.log(nepravda)
+
+let age = 25
+let isAdult = age >= 18 //porovnání
+console.log(isAdult)
+let isChild = age < 18 //porovnání
+console.log(isChild)
