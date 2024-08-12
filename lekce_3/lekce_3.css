@@ -1,29 +1,29 @@
 h1 {
-    color: rgb(121, 0, 208);
+    color: rgb(3, 112, 185);
     font-size: 50px;
 }
 
 h2 {
-    color: rgb(149, 0, 255);
+    color: rgb(30, 132, 200);
     font-size: 40px;
 }
 
 p {
-    color: rgb(179, 0, 255);
+    color: rgb(64, 156, 218);
     font-size: 20px;
 }
 
 ul {
-    color: rgb(179, 0, 255);
+    color: rgb(64, 156, 218);
     font-size: 20px;
 }
 
 a {
     text-decoration: none;
-    color: rgb(179, 0, 255);
+    color: rgb(64, 156, 218);
     font-size: 20px;
 }
 
 a:hover {
-    color: rgb(65, 14, 102);
+    color: rgb(1, 40, 66);
 }

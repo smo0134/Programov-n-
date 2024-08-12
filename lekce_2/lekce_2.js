@@ -42,3 +42,42 @@ else {
 // false = true && false
 // false = false && true
 // false = false && false
+
+let cislo1 = 10
+let cislo2 = -10
+if (cislo1 > 0 && cislo2 > 0) {
+    console.log("Obě čísla jsou kladná")
+}
+else {
+    console.log("Alespoň jedno číslo není kladné")
+}
+
+// || - nebo
+// true = true || true
+// true = true || false
+// true = false || true
+// false = false || false
+
+if (cislo1 > 0 || cislo2 > 0) {
+    console.log("Alespoň jedno číslo je kladné")
+}
+else {
+    console.log("Žádné číslo není kladné")
+}
+
+// globalni a lokalni scope
+let promenna1 = 10 //globalni promenna
+if (promenna1 > 0) {
+    let promenna2 = 20 //lokalni promenna
+    console.log(promenna2)
+}
+
+//console.log(promenna2) //promenna2 je lokalni promenna a nelze ji použít mimo blok, ve kterém byla vytvořena
+
+//variable shadowing
+let promenna3 = 30
+if (promenna3 > 0) {
+    let promenna3 = 40
+    console.log(promenna3) //40
+}
+console.log(promenna3) //30
